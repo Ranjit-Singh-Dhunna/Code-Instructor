@@ -1,5 +1,6 @@
 
-# 🧠 Code Buddy
+<h1 align="center">🧠 Code Buddy</h1>
+
 
 > An AI-powered tool that helps learners get instant reviews on their code. Paste your code, click **Review**, and get intelligent feedback to learn, debug, and improve faster. Best tool for beginners in school.
 
@@ -53,6 +54,14 @@ OPENAI_API_KEY=your_key_here
 
 ## 📸 Demo
 
+
+<p align="center">
+  <a href="https://youtu.be/BCNwCZL0TMI" target="_blank">
+    <img src="https://img.youtube.com/vi/BCNwCZL0TMI/hqdefault.jpg" alt="Watch Demo" width="700"/>
+  </a>
+</p>
+
+> 🎬 Click the image above to watch the full demo (1:55).
 
 ---
 

@@ -48,7 +48,7 @@ npm run dev
 
 ### ⚙️ Environment Variables (`.env`)
 ```env
-OPENAI_API_KEY=your_key_here
+GOOGLE_GEMINI_API=your_key_here
 ```
 ---
 
